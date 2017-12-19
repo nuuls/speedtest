@@ -1,0 +1,4 @@
+*.exe
+/server/speedtest-server
+/server/server
+/client/client
